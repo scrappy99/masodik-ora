@@ -1,0 +1,44 @@
+html {
+    background-color: #fff;
+}
+
+body{
+    background-color: #ddffdd;
+    width: 60%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 8px #555;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#kulso {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cim {
+    font-style: 25px;
+    font-weight: bold;
+}
+.belso {
+    list-style-type: none;
+}
+img {
+    width: 130px;
+    float: right;
+}
+img#utvonal {
+    float: none;
+    display: block;
+    width: 400px;
+    margin: auto;
+}
+.behuzas {
+    text-indent: 50px;
+}
